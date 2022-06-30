@@ -1,0 +1,17 @@
+{
+  "name": "reutilizando_modelo_secuencial",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.18.0",
+    "sweetalert2": "^11.4.19"
+  }
+}
